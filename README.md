@@ -60,6 +60,6 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the tot
 enable us to identify the underperforming or less popular pizza options
 
 ------------------------------------------------------------------------------------------------------------------------------
-The Dashboard given below contains the answers to these trends:
+The Dashboard that I created below contains the answers to these trends:
 
 ![dashboard](https://github.com/user-attachments/assets/e1bf8cd8-a81f-45e8-9ad2-029e89f5657f)
