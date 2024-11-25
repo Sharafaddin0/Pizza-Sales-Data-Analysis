@@ -58,3 +58,8 @@ help us to identify the most popular pizza options
 7. Bottom 5 Worst Sellers by Total Pizzas Sold:
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will
 enable us to identify the underperforming or less popular pizza options
+
+------------------------------------------------------------------------------------------------------------------------------
+The Dashboard given below contains the answers to these trends:
+
+![dashboard](https://github.com/user-attachments/assets/e1bf8cd8-a81f-45e8-9ad2-029e89f5657f)
